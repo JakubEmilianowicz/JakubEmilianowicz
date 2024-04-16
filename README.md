@@ -1,16 +1,12 @@
-### Hi there 👋
+### WItaj 👋
+👨‍💻 Technik informatyk z ZUT | 🎨 Modelowanie 3D | ☕ Java
 
-<!--
-**JakubEmilianowicz/JakubEmilianowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Absolwent Technikum SCI w Szczecinie
+📚 Student Informatyki na Zachodniopomorskim Uniwersytecie Technologicznym
 
-Here are some ideas to get you started:
+🌟 Zainteresowania:
 
-- 👨‍💻 Technik informatyk z ZUT | 🎨 Modelowanie 3D | ☕ Java
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖌️ Modelowanie 3D (Blender)
+💻 Programowanie w Javie (początkujący)
+💡 Otwarty na nowe wyzwania i projekty!
+
