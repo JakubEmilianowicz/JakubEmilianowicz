@@ -1,5 +1,5 @@
 ### WItaj 👋
-👨‍💻 Technik informatyk z ZUT | 🎨 Modelowanie 3D | ☕ Java
+👨‍💻 Technik informatyk z ZUT | 🎨 Modelowanie 3D 
 
 🎓 Absolwent Technikum SCI w Szczecinie
 📚 Student Informatyki na Zachodniopomorskim Uniwersytecie Technologicznym
