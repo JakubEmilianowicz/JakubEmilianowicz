@@ -7,6 +7,6 @@
 🌟 Zainteresowania:
 
 🖌️ Modelowanie 3D (Blender)
-💻 Programowanie w Javie (początkujący)
+🏀 Koszykówka
 💡 Otwarty na nowe wyzwania i projekty!
 
